@@ -7,7 +7,7 @@ working with event data you may not be familiar with: `event.clientX` and
 `event.clientY`. These provide the current x/y position of a mouse. Links are
 provided in the resources section to learn more.
 
-## Two Buttons To Rule Them All
+## Two Buttons To Rule Them All 
 
 ![Using buttons](https://media.giphy.com/media/HraQGUYyPxDz2/giphy.gif)
 
